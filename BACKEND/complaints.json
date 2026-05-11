@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "SHIVAM",
+    "city": "LUCKNOW",
+    "mobile": "8299101738",
+    "complaint": "I HAVE TRAFFIC ISSUE",
+    "timestamp": "2026-05-08T03:48:22.291Z"
+  },
+  {
+    "id": 2,
+    "name": "RAM",
+    "city": "KANPUR",
+    "mobile": "7859642536",
+    "complaint": "I HAVE WATER RELATED ISSUE",
+    "timestamp": "2026-05-08T03:56:43.278Z"
+  }
+]
